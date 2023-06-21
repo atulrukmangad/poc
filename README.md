@@ -1,6 +1,6 @@
 # Chatbot with Python Named Entity Recognition
 
-This project is a chatbot that uses Python Named Entity Recognition (NER) to get basic information from a customer and then send that information to an API to generate an insurance offer.
+This POC is a chatbot that uses Python Named Entity Recognition (NER) to get basic information from a customer and then send that information to an API to generate an insurance offer.
 
 ## Requirements
 
